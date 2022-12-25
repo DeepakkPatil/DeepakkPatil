@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" width="450" />
-   <img src="https://www.holopin.io/_next/image?url=%2Fapi%2Fuser%2Fboard%3Fuser%3Ddeepakkpatil&w=3840&q=75" width="450" height="200" />
+   <img src="https://www.holopin.io/_next/image?url=%2Fapi%2Fuser%2Fboard%3Fuser%3Ddeepakkpatil&w=3840&q=75" width="450" />
   
 </p>
 
