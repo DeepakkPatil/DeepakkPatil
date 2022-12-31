@@ -1,14 +1,17 @@
 
 
 
-<h1>Hiii Its :D</h1>
+<h1>Hiii <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Its :D</h1>
 
 
 
 
-
-
-<p>I’m Deepak Patil <strong>@cruze0210 </strong> a Sophomore persuing <strong> Computer Engineering</strong> in <strong><a href="https://www.ietdavv.edu.in/">IET-DAVV </a></strong>
+<p align="center">
+<em>
+I’m Deepak Patil <strong>{@cruze0210} </strong> a Sophomore persuing <strong> Computer Engineering</strong> in <strong><a href="https://www.ietdavv.edu.in/">IET-DAVV 
+</a></strong> I am A <b>Competitive Programmer </b> and a <b> Developer</b> and Design,ML Enthusiast who is keen to learn and Grow 
+</em>
+</p>
 
 
 <p align="center">
