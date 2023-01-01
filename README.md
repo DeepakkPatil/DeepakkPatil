@@ -63,3 +63,9 @@ I’m Deepak Patil <strong>{@cruze0210} </strong> a Sophomore persuing <strong> 
   <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DeepakkPatil&mode=weekly"/></a>
 </p>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeepakkPatil&theme=2077)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepakkPatil&theme=2077)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeepakkPatil&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeepakkPatil&theme=2077)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeepakkPatil&theme=2077)
+
+</div>
