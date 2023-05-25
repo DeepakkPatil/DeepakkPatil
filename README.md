@@ -62,7 +62,6 @@ I’m Deepak Patil <strong>{@cruze0210} </strong> a Sophomore persuing <strong> 
   
   <p align="center">
     <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DeepakkPatil&mode=weekly"/>
-  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepakkPatil&show_icons=true&locale=en&layout=compact" alt="Dee" />
 </p>
 
 <div align="center">
