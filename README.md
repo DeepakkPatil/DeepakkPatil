@@ -15,8 +15,8 @@ I’m Deepak Patil <strong>{@cruze0210} </strong> a Sophomore persuing <strong> 
 
 
 <p align="center">
-  <img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" width="450" />
-   <img src="https://www.holopin.io/_next/image?url=%2Fapi%2Fuser%2Fboard%3Fuser%3Ddeepakkpatil&w=3840&q=75" width="450" />
+  <img align="center" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" width="450" />
+   <img align="center" src="https://www.holopin.io/_next/image?url=%2Fapi%2Fuser%2Fboard%3Fuser%3Ddeepakkpatil&w=3840&q=75" width="450" />
   
 </p>
 
@@ -61,11 +61,15 @@ I’m Deepak Patil <strong>{@cruze0210} </strong> a Sophomore persuing <strong> 
 <br />
   
   <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=DeepakkPatil&mode=weekly"/></a>
+    <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=DeepakkPatil&mode=weekly"/>
+  <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepakkPatil&show_icons=true&locale=en&layout=compact" alt="Dee" />
 </p>
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeepakkPatil&theme=2077)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DeepakkPatil&theme=2077)![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeepakkPatil&theme=2077) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeepakkPatil&theme=2077)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeepakkPatil&theme=2077)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeepakkPatil&theme=2077)
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeepakkPatil&theme=2077) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DeepakkPatil&theme=2077) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DeepakkPatil&theme=2077)![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DeepakkPatil&theme=2077)
 
 </div>
