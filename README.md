@@ -3,7 +3,9 @@
 
 <h1>Hiii <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Its :D</h1>
 
-
+<p align="center">
+<img src="https://i.ibb.co/TgbrjTg/translogo-Dark.png" width="200"/>
+</p>
 
 
 <p align="center">
