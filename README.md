@@ -15,7 +15,9 @@ I’m Deepak Patil <strong>{@cruze0210} </strong> a Sophomore persuing <strong> 
 
 
 
-
+<p align="center">
+  <img align="center" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" width="450" />
+</p>
 
 <h4>
   
