@@ -8,8 +8,8 @@
 
 <p align="center">
 <em>
-I’m Deepak Patil <strong>{@cruze0210} </strong> a Sophomore persuing <strong> Computer Engineering</strong> in <strong><a href="https://www.ietdavv.edu.in/">IET-DAVV 
-</a></strong> I am A <b>Competitive Programmer </b> and a <b> Developer</b> and Design,ML Enthusiast who is keen to learn and Grow 
+I’m Deepak Patil <strong>{@cruze0210} </strong> a graduate in <strong> Computer Engineering</strong> from <strong><a href="https://www.ietdavv.edu.in/">IET-DAVV 
+</a></strong> I am A <b>Competitive Programmer </b> and a <b> Web Developer</b> and Design,ML Enthusiast who is keen to learn and Grow 
 </em>
 </p>
 
